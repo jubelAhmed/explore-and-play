@@ -2,4 +2,6 @@
 
 [Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/jubelAhmed/explore-and-play)
 
-This one is Just for Learning and Exploring
+This one is just for Learning and Exploring
+
+
